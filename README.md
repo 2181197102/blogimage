@@ -33,7 +33,8 @@ https://cdn.jsdelivr.net/gh/用户名/仓库名@分支名/指定的存储路径/
 https://cdn.jsdelivr.net/gh/wefashe/git-images@master/images/20210112153045.png
 ```
 
-![image-20231114195621514](C:\Users\21811\AppData\Roaming\Typora\typora-user-images\image-20231114195621514.png)
+![image](https://github.com/2181197102/blogimage/assets/128360566/986ee5cb-4bd2-4c84-9286-637a78e852f4)
+
 
 **补充：**
 现在`jsdelivr`改为只能访问release的内容即只能加速访问发版后的内容 可以右侧随便创建一个新的 relaese
